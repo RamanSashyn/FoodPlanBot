@@ -17,8 +17,7 @@ from bot_data.keyboards import create_inline_keyboard, private
 
 
 
-# BOT_TOKEN = "7649928424:AAGNpZk9rzoeNgyxEyo71i5389w3ahY9y1U"
-BOT_TOKEN = "8147998562:AAFeqmcUZIuEqSFxi0VM2OlpT8GHW9-7p3M"
+BOT_TOKEN = "7649928424:AAGNpZk9rzoeNgyxEyo71i5389w3ahY9y1U"
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(storage=MemoryStorage())
