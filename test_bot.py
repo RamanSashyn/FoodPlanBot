@@ -16,7 +16,6 @@ from bot_admin.models import Recipe, DailyRecipeLimit
 from bot_data.keyboards import create_inline_keyboard, private
 
 
-
 BOT_TOKEN = "7649928424:AAGNpZk9rzoeNgyxEyo71i5389w3ahY9y1U"
 
 bot = Bot(token=BOT_TOKEN)
